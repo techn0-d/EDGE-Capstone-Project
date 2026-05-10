@@ -143,15 +143,14 @@ This project is intended for educational purposes only.
 Special thanks to:
 
 FEU Roosevelt
-Capstone Advisers
-Faculty Members
-Partner Companies
-Students who participated in system testing
-Jomari C. Primo
-Eisen C. Lopez
-Deonico M. Casenillo Jr
+,Capstone Advisers
+,Faculty Members
+,Partner Companies
+,Students who participated in system testing
+,Jomari C. Primo
+,Eisen C. Lopez
+and Deonico M. Casenillo Jr
+
 📬 Contact
-
 For questions or suggestions, feel free to contact the development team.
-
 Email: deonico.nicocasenillo@gmail.com
